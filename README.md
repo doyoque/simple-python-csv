@@ -9,7 +9,7 @@ Just a simple python script to parse the data from ```json``` source and then ex
 * **Pip3**
 * **Pandas**
 
-##To run this
+## To run this
 
 ```bash
 #if you using multiple version of python
